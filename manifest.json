@@ -1,11 +1,11 @@
-﻿{
+{
     "schema":  2,
     "version":  "0.1.4",
     "channel":  "private-playtest",
     "package_url":  "https://github.com/valentinbaviere/fatebreaker-playtest/releases/download/v0.1.4/Fatebreaker-0.1.4.zip",
     "sha256":  "fa47a51efb2b9b6b69bca1f5be936713516a1e42f85a16edbe7330c296d824dc",
     "size":  148328461,
-    "published_at":  "2026-08-29T15:04:03",
+    "published_at":  "2026-08-29T15:09:14",
     "source_commit":  "b21512cd950dd6c7b4e4d28314bdd0a8e670ba06",
     "release_id":  "v0.1.4",
     "force_install":  false,
