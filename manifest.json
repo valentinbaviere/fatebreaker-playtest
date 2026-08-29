@@ -5,7 +5,7 @@
     "package_url":  "https://github.com/valentinbaviere/fatebreaker-playtest/releases/download/v0.1.3/Fatebreaker-0.1.3.zip",
     "sha256":  "22ce0320643aa8c19f54a59846aeb03af1855d639717303a5bdc6ad28c6a74ea",
     "size":  148327896,
-    "published_at":  "2026-08-29T15:14:18",
+    "published_at":  "2026-08-29T15:15:21",
     "patch_notes":  [
                         "Sprint C terminÃ© : intÃ©gration commune des cinq armes.",
                         "Pipeline privÃ© de build et de mise Ã  jour ajoutÃ©."
@@ -15,7 +15,7 @@
                        "Transitions et embranchements de salles.",
                        "LisibilitÃ© et comportement des cinq armes."
                    ],
-    "force_install":  false,
+    "force_install":  true,
     "source_commit":  "legacy-local-build",
     "release_id":  "v0.1.3"
 }
