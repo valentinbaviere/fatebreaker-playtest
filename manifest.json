@@ -1,18 +1,18 @@
 {
     "schema":  2,
-    "version":  "0.1.6",
+    "version":  "0.1.61",
     "channel":  "private-playtest",
-    "package_url":  "https://github.com/valentinbaviere/fatebreaker-playtest/releases/download/v0.1.6/Fatebreaker-0.1.6.zip",
-    "sha256":  "e998f5397453f904229b69fcce830969c41fc384fe8057e111474b1e4ded3fa6",
-    "size":  225732678,
-    "published_at":  "2026-09-06T19:49:13",
-    "source_commit":  "f5cd867079a0f251fad18474058b416238cefaca",
-    "release_id":  "v0.1.6",
+    "package_url":  "https://github.com/valentinbaviere/fatebreaker-playtest/releases/download/v0.1.61/Fatebreaker-0.1.61.zip",
+    "sha256":  "7793f21d8adbf65e20456b312acf3e581754eb00a310a5fffc1517180a01cd35",
+    "size":  225741016,
+    "published_at":  "2026-09-06T19:55:06",
+    "source_commit":  "07d29e2b9ea38971a35b609c7bbeb87e2ab4df89",
+    "release_id":  "v0.1.61",
     "force_install":  false,
     "patch_notes":  [
-                        "Correction de la version affichÃƒÆ’Ã‚Â©e dans la build testeur."
+                        "Build de contrÃƒÆ’Ã‚Â´le de la mise ÃƒÆ’Ã‚Â  jour automatique du launcher depuis la v0.1.6."
                     ],
     "test_focus":  [
-                       "VÃƒÆ’Ã‚Â©rifier que le menu affiche PLAYTEST BUILD v0.1.6 sans suffixe -dev."
+                       "Lancer Fatebreaker.exe en v0.1.6 et vÃƒÆ’Ã‚Â©rifier le passage automatique ÃƒÆ’Ã‚Â  PLAYTEST BUILD v0.1.61."
                    ]
 }
