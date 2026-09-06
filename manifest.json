@@ -1,21 +1,23 @@
 {
     "schema":  2,
-    "version":  "0.1.4",
+    "version":  "0.1.5",
     "channel":  "private-playtest",
-    "package_url":  "https://github.com/valentinbaviere/fatebreaker-playtest/releases/download/v0.1.4/Fatebreaker-0.1.4.zip",
-    "sha256":  "fa47a51efb2b9b6b69bca1f5be936713516a1e42f85a16edbe7330c296d824dc",
-    "size":  148328461,
-    "published_at":  "2026-08-29T15:28:08",
-    "source_commit":  "b21512cd950dd6c7b4e4d28314bdd0a8e670ba06",
-    "release_id":  "v0.1.4",
+    "package_url":  "https://github.com/valentinbaviere/fatebreaker-playtest/releases/download/v0.1.5/Fatebreaker-0.1.5.zip",
+    "sha256":  "acde722827db0b64ece704c069437d560779007392e5fbca34907eb52952a878",
+    "size":  148331471,
+    "published_at":  "2026-09-06T16:24:11",
+    "source_commit":  "3358ff4ac6fd87ab102140205d57f4c3d90ff7df",
+    "release_id":  "v0.1.5",
     "force_install":  false,
     "patch_notes":  [
-                        "Sprint C terminÃ© : intÃ©gration commune des cinq armes.",
-                        "Pipeline privÃ© de build et de mise Ã  jour ajoutÃ©."
+                        "Options : ajout du bouton de rÃƒÂ©initialisation de sauvegarde avec confirmation.",
+                        "Dev Tools : liste dÃƒÂ©filante pour rendre toutes les options accessibles.",
+                        "Les outils de dÃƒÂ©veloppement sont masquÃƒÂ©s et inaccessibles dans la build testeur.",
+                        "Sprint C : intÃƒÂ©gration commune des cinq armes et correctifs de stabilitÃƒÂ©."
                     ],
     "test_focus":  [
-                       "StabilitÃ© d\u0027une run complÃ¨te.",
-                       "Transitions et embranchements de salles.",
-                       "LisibilitÃ© et comportement des cinq armes."
+                       "VÃƒÂ©rifier l\u0027accÃƒÂ¨s ÃƒÂ  toutes les options des Dev Tools avec la molette.",
+                       "VÃƒÂ©rifier RESET SAVE depuis les Options puis le redÃƒÂ©marrage avec une sauvegarde vierge.",
+                       "VÃƒÂ©rifier la stabilitÃƒÂ© d\u0027une run complÃƒÂ¨te."
                    ]
 }
