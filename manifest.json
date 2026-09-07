@@ -1,18 +1,24 @@
 {
-    "schema":  2,
-    "version":  "0.1.62",
-    "channel":  "private-playtest",
-    "package_url":  "https://github.com/valentinbaviere/fatebreaker-playtest/releases/download/v0.1.62/Fatebreaker-0.1.62.zip",
-    "sha256":  "94ec01b9dfcaf0a7a97084af573e58b20fb7731fbd7e99429fb75404f195e31a",
-    "size":  225758182,
-    "published_at":  "2026-09-06T20:09:34",
-    "source_commit":  "e05f4d6c7927480ed8f6739505a71bdb868d8d36",
-    "release_id":  "v0.1.62",
-    "force_install":  false,
-    "patch_notes":  [
-                        "Build de contrÃƒÆ’Ã‚Â´le du passage automatique de v0.1.61 ÃƒÆ’Ã‚Â  v0.1.62."
-                    ],
-    "test_focus":  [
-                       "Relancer le launcher dÃƒÆ’Ã‚Â©jÃƒÆ’Ã‚Â  installÃƒÆ’Ã‚Â© et vÃƒÆ’Ã‚Â©rifier que le menu affiche PLAYTEST BUILD v0.1.62."
-                   ]
+  "schema": 2,
+  "version": "0.1.63",
+  "channel": "private-playtest",
+  "package_url": "https://github.com/valentinbaviere/fatebreaker-playtest/releases/download/v0.1.63/Fatebreaker-0.1.63.zip",
+  "sha256": "f8ac4c36d13c5e79fb470893c0523e8011c380a73aa08ca4613d1851fbf0fb14",
+  "size": 227337153,
+  "published_at": "2026-09-07T18:58:56",
+  "source_commit": "c650dbf3c81c302cf944ea7e3b3c36e526a010b3",
+  "release_id": "v0.1.63",
+  "force_install": false,
+  "patch_notes": [
+    "Sprint C.2.4 : équilibrage final de Loaded Dice et Russian Roulette.",
+    "Loaded Dice : dégâts réduits et nouveau carrousel de roll au-dessus du monde.",
+    "Russian Roulette : les CLICK déclenchent maintenant un Snap Shot utilitaire.",
+    "Correction du reset Russian Roulette après reload et du cycle Debt Collector 15/15."
+  ],
+  "test_focus": [
+    "Vérifier la lisibilité et le rythme du carrousel Loaded Dice.",
+    "Évaluer la puissance de Loaded Dice sur cible unique et groupes.",
+    "Vérifier CLICK, Snap Shot, BANG et Cash Out avec Russian Roulette.",
+    "Vérifier le premier tir après reload et le cycle Debt 13/15 à 15/15."
+  ]
 }
