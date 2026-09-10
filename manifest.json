@@ -1,22 +1,22 @@
 {
     "schema":  2,
-    "version":  "0.1.64",
+    "version":  "0.1.65",
     "channel":  "private-playtest",
-    "package_url":  "https://github.com/valentinbaviere/fatebreaker-playtest/releases/download/v0.1.64/Fatebreaker-0.1.64.zip",
-    "sha256":  "dfb99e5530a4084e40e69a3823de273fab43f632d0c69a5fd93456952e9e85f8",
-    "size":  226488719,
-    "published_at":  "2026-09-10T19:41:22",
-    "source_commit":  "93f9bb009bbf0014946c9260d6ceb8b27c56a3de",
-    "release_id":  "v0.1.64",
+    "package_url":  "https://github.com/valentinbaviere/fatebreaker-playtest/releases/download/v0.1.65/Fatebreaker-0.1.65.zip",
+    "sha256":  "c49ab501d167c91e31ae0ee76a73ea09aae41b5da7bc704f24ded3f17f341202",
+    "size":  228499745,
+    "published_at":  "2026-09-10T20:00:49",
+    "source_commit":  "3b7a7799c79ae712f80c729099e22e4155794f46",
+    "release_id":  "v0.1.65",
     "force_install":  false,
     "patch_notes":  [
-                        "Correction du bouton Quitter / ÃƒÆ’Ã¢â‚¬Â°conomiser du Backroom Market.",
-                        "Correction des deux choix de prÃƒÆ’Ã‚Â©paration de la salle Last Call.",
-                        "Le verrou de la machine de pari ne bloque plus les interfaces des salles suivantes."
+                        "Correction renforcÃƒÆ’Ã‚Â©e du bouton Quitter / ÃƒÆ’Ã¢â‚¬Â°conomiser du Backroom Market.",
+                        "Les boutons modaux disposent maintenant d\u0027une dÃƒÆ’Ã‚Â©tection physique de clic indÃƒÆ’Ã‚Â©pendante du HUD.",
+                        "PrÃƒÆ’Ã‚Â©vention des clics perdus et des doubles dÃƒÆ’Ã‚Â©clenchements dans les salles spÃƒÆ’Ã‚Â©ciales."
                     ],
     "test_focus":  [
-                       "VÃƒÆ’Ã‚Â©rifier la sortie du Backroom Market sans achat.",
-                       "VÃƒÆ’Ã‚Â©rifier le soin payant et l\u0027affrontement direct dans Last Call.",
-                       "VÃƒÆ’Ã‚Â©rifier l\u0027accÃƒÆ’Ã‚Â¨s au Collector et la dÃƒÆ’Ã‚Â©tection automatique de la version 0.1.64 par le launcher."
+                       "Entrer dans le Backroom Market puis cliquer sur Quitter / ÃƒÆ’Ã¢â‚¬Â°conomiser.",
+                       "VÃƒÆ’Ã‚Â©rifier que la fenÃƒÆ’Ã‚Âªtre se ferme et que les sorties de route apparaissent.",
+                       "VÃƒÆ’Ã‚Â©rifier les boutons des salles Last Call et Mystery aprÃƒÆ’Ã‚Â¨s une salle de pari."
                    ]
 }
